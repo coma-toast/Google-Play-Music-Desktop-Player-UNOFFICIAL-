@@ -94,6 +94,7 @@
     "ytmusic.js": "6.1.11"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-eslint": "^6.1.2",
     "babel-plugin-istanbul": "^2.0.1",
     "babel-plugin-transform-class-properties": "^6.11.5",
